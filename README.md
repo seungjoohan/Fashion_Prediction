@@ -16,13 +16,12 @@
 * Source: [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html)
 <p align="left">
   <img src="images/dress.jpg" width="200"/>
-  <div class="litext">dress</div>
+  <div class="litext">Dress</div>
 </p>
 
 ## Modeling
 * Technique: Fine tuning pre-trained model
 * Architecture: ResNet18 Convolutional Neural Network
-[ResNet18]()
-**insert resnet18 architecture image
+
 
 ## Results
