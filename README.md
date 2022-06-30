@@ -16,7 +16,9 @@ Classify the type of clothings from images.
 ## Modeling
 * Technique: Fine tuning pre-trained model
 * Architecture: ResNet18 Convolutional Neural Network
-
+* [Training on full dataset](https://github.com/seungjoohan/Fashion_Prediction/blob/main/resnet18_v1.ipynb)
+* [Training on partial dataset](link to notebook)
 
 ## Results
 **performance graph
+* [Full model accuracy](https://github.com/seungjoohan/Fashion_Prediction/blob/main/resnet18_v1_acc.ipynb)
