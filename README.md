@@ -21,7 +21,8 @@ Classify the type of clothings from images.
 
 ## Results
 <p align="left">
-  <img src="images/dress.jpg" width="200">
+  <img src="images/Loss_Graph.png" width="200">
+  <img src="images/Acc_Graph.png" width="200">
 </p>
 
 * [ResNet18 on Full Dataset Accuracy](https://github.com/seungjoohan/Fashion_Prediction/blob/main/resnet18_v1_acc.ipynb)
