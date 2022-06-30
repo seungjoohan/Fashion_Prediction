@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Objective](#objective)
 - [Data](#data)
-- [Modelling](#modelling)
+- [Modeling](#modeling)
 - [Results](#results)
 
 ## Objective
@@ -14,7 +14,7 @@
 * About 290K clothing images with clothing 46 unique category labels
 * Source: [deepfashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html)
 
-## Modelling
+## Modeling
 * Technique: Fine tuning pre-trained model
 * Architecture: ResNet18 Convolutional Neural Network
 [ResNet18]()
