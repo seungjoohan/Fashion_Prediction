@@ -1,12 +1,6 @@
 # Predicting Clothing Category using CNNs
 > By: Cameron Meziere, Seungju Han
 
-## Table of Contents
-- [Objective](#objective)
-- [Data](#data)
-- [Modeling](#modeling)
-- [Results](#results)
-
 ## Objective
 Classify the type of clothings from images.
 
