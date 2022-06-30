@@ -15,4 +15,9 @@
 * Source: [deepfashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html)
 
 ## Modelling
-* 
+* Technique: Fine tuning pre-trained model
+* Architecture: ResNet18 Convolutional Neural Network
+[ResNet18]()
+<li> insert resnet18 architecture image</li>
+
+** Results
