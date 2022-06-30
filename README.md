@@ -21,7 +21,7 @@ Classify the type of clothings from images.
 
 ## Results
 <p align="left">
-  <img src="images/dress.jpg" width="200"/>
+  <img src="images/dress.jpg" width="200">
 </p>
-<br>
+
 * [Full model accuracy](https://github.com/seungjoohan/Fashion_Prediction/blob/main/resnet18_v1_acc.ipynb)
