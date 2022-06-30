@@ -20,5 +20,8 @@ Classify the type of clothings from images.
 * [Training on partial dataset](link to notebook)
 
 ## Results
-**performance graph
+<p align="left">
+  <img src="images/dress.jpg" width="200"/>
+  <div class="litext">Dress</div>
+</p>
 * [Full model accuracy](https://github.com/seungjoohan/Fashion_Prediction/blob/main/resnet18_v1_acc.ipynb)
