@@ -15,7 +15,8 @@
 * Labels: Anorak, Blazer, Blouse, Bomber, Button-Down, etc (46 unique labels)
 * Source: [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html)
 <p align="left">
-  <img src="images/dress.jpg" width="200"/>Dress
+  <img src="images/dress.jpg" width="200"/>
+  <div class="litext">dress</div>
 </p>
 
 ## Modeling
