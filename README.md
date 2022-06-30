@@ -8,7 +8,7 @@
 - [Results](#results)
 
 ## Objective
-
+Classify the type of clothings from images.
 
 ## Data
 * About 290K clothing images(6GB) with clothing 46 unique category labels
@@ -25,3 +25,4 @@
 
 
 ## Results
+**performance graph
